@@ -159,6 +159,7 @@ body {
   position: relative;
   z-index: 2;
   font-size: 1.25rem;
+  font-family: "Barlow Bold";
 }
 .card__subdescription {
   line-height: 138%;

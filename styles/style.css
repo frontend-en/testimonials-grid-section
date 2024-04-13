@@ -181,6 +181,11 @@ body {
   width: 104px;
   height: 102px;
 }
+@media (min-width: 768px) {
+  .grid-item-1::before {
+    right: 5rem;
+  }
+}
 .grid-item-1 img {
   border: 2px solid #a775f1;
 }
